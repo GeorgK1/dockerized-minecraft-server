@@ -1,0 +1,1 @@
+Dockerized minecraft default server
